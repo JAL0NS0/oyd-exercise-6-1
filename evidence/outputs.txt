@@ -1,0 +1,11 @@
+app_sg_id = "sg-0a96cf159ab8ce71d"
+private_subnet_ids = [
+  "subnet-06489cb071fa46a63",
+  "subnet-0c79a843baf7b471f",
+]
+public_subnet_ids = [
+  "subnet-09a5833c2f3d969dd",
+  "subnet-0e8d9cb24523fb04c",
+]
+vpc_id = "vpc-04be873bf7764c437"
+web_sg_id = "sg-0ef768e2ced806259"
